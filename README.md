@@ -22,7 +22,7 @@
 ### 🔭 What I’m Working On
 - Building responsive web apps using **React.js**
 - Enhancing performance and accessibility for better UX
-- Designing clean UI layouts with **Tailwind CSS**
+- Designing clean UI layouts with **Bootstrap**
 
 ---
 
